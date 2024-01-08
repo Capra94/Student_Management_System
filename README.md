@@ -6,3 +6,5 @@ features:
 - It allows the user to create, change and delete student data.
 - It allows the creation of classes and assigning/removing students to/from those classes.
 - You can search for students via letter matching.
+
+Note: the react-frontend exists as a separate repository.
